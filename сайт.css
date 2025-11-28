@@ -1,0 +1,13 @@
+img {
+    width: 100%;
+   }
+   div{
+    padding: 0px 0px 0px 0px;margin: 0px;
+    background-color: rgb(190, 162, 186);
+    color: rgb(0, 0, 0);
+
+} 
+.foto {
+    display:flex;
+    flex-direction: row;
+}
